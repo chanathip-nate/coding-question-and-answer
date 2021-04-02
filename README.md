@@ -1,2 +1,2 @@
-# coding-question-and-answer
-To collect my answer from many resources
+# Coding Question and Answer
+I use this repo for collecting my answer from various resources of coding questions seperating with folders
